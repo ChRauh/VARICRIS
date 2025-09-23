@@ -1,5 +1,5 @@
 ---
-title: "The *VARICRISIS* project"   
+title: "The *VARICRIS* project"   
 format:
   html:
     toc: true

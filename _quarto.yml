@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 # Meta
-description-meta: "VARICRISIS research project"
+description-meta: "VARICRIS research project"
 author-meta: "Christian Rauh / Christian Kreuder-Sonnen"
 
 execute:
@@ -16,7 +16,7 @@ lang: en
 
   
 website:
-  title: "VARICRISIS"
+  title: "VARICRIS"
   
   open-graph: true   # optional, for better link previews
   
@@ -45,6 +45,7 @@ format:
     css: styles.css
     toc: true
     link-external-newwindow: true
+    email-obfuscation: javascript
 
 
 

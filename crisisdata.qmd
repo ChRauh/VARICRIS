@@ -1,17 +1,17 @@
 ---
-title: "VARICRISIS data set"
+title: "VARICRIS data set"
 ---
 
 # Measuring and comparing transboundary crises
 
-To facilitate theory-building and theory-testing in the project, as well as to enable future cummulative research by the community, *VARICRISIS* will provide an *original large-scale dataset that offers systematic information on the intensity, temporal dynamics, as well as the geographical and functional transboundariness of crises perceptions* across the globe and across time (1994-2025).
+To facilitate theory-building and theory-testing in the project, as well as to enable future cummulative research by the community, *VARICRIS* will provide an *original large-scale dataset that offers systematic information on the **intensity**, **temporal dynamics**, as well as the geographical and functional **transboundariness** of crises perceptions* across the globe and across time (1994-2025).
 
 To this end, we will build on an *original text corpus* covering the news stream of the largest leading *international newswire agencies* (which will also available for individual qualification projects of the team members), to then extract the relevant crisis features with a targeted NLP measurement model.
 <br>
 
 ![](./files/images/measurementmodel.png)
 
-The exact methodological approaches can and will be sharpened together by the whole project team, but an ***initial proof-of-concept*** study presented by both PIs at the DVPW conference in Göttingen 2025 underlines the feasibility of the sketched approach. Two crisis case studies from the initial ata set are illustrated below.
+The exact methodological approaches can and will be sharpened together by the whole project team, but an ***initial proof-of-concept*** study presented by both PIs at the DVPW conference in Göttingen 2024 underlines the feasibility of the sketched approach. Two crisis case studies from the initial data set are illustrated below.
 <br>
 
 ![](./files/images/CaseStudy1.png){style="border:1px solid black;"}

@@ -42,9 +42,11 @@ format:
 
 <!-- the list of peoples -->
 
-## VARICRISIS team
+## VARICRIS team
 
 <div class="people-list">
+
+<!-- Person 1 -->
 
 <section class="person">
 <img src="./files/images/cks.png" alt="Portrait of CKS">
@@ -102,7 +104,7 @@ format:
 </svg>
 </a>
 
-<a href="mailto:christian.rauh@wzb.eu" title="Email CKS">
+<a href="mailto:christian.rauh@wzb.eu" title="Email CR">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
      fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
 <rect width="20" height="16" x="2" y="4" rx="2"/>
@@ -125,11 +127,11 @@ format:
 </div> <!-- CLOSE .meta -->
 </section> <!-- CLOSE .person -->
 
-
+<br>
 
 <!-- Person 3 -->
 <section class="person">
-<img src="./files/images/NN.png" alt="Portrait of NN">
+<img src="./files/images/NN2.png" alt="Portrait of NN">
 <div class="meta">
 
 <div class="name">
@@ -168,7 +170,7 @@ format:
 </section> <!-- CLOSE .person -->
 
 
-<!-- Person 3 -->
+<!-- Person 4 -->
 <section class="person">
 <img src="./files/images/NN.png" alt="Portrait of NN">
 <div class="meta">
@@ -185,7 +187,7 @@ format:
 </svg>
 </a>
 
-<a href="mailto:christian.rauh@wzb.eu" title="Email CKS">
+<a href="mailto:christian.rauh@wzb.eu" title="Email CR">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
      fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
 <rect width="20" height="16" x="2" y="4" rx="2"/>
@@ -198,6 +200,91 @@ format:
 
 <p class="affil">WZB Berlin Social Science Center</p>
 <p class="title">Pre-Doctoral researcher<br>Job call will open in November 2025</p>
+
+<div class="tags">
+<span class="tag">Political science</span>
+<span class="tag">Quantitative text analysis</span>
+<span class="tag">???</span>
+</div>
+
+</div> <!-- CLOSE .meta -->
+</section> <!-- CLOSE .person -->
+
+
+<br>
+
+<!-- Person 5 -->
+<section class="person">
+<img src="./files/images/NN2.png" alt="Portrait of NN">
+<div class="meta">
+
+<div class="name">
+<a href="https://www.uni-jena.de/122166/stellenmarkt">N.N.</a>
+<span class="icons">
+
+<a href="https://www.uni-jena.de/122166/stellenmarkt" title="Personal webpage">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+     fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+<circle cx="12" cy="12" r="10"/>
+<path d="M2 12h20M12 2a15.3 15.3 0 0 1 0 20M12 2a15.3 15.3 0 0 0 0 20"/>
+</svg>
+</a>
+
+<a href="mailto:christian.kreuder-sonnen@uni-jena.de" title="Email CKS">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+     fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+<rect width="20" height="16" x="2" y="4" rx="2"/>
+<path d="m22 6-10 7L2 6"/>
+</svg>
+</a>
+
+</span>
+</div>
+
+<p class="affil">Friedrich-Schiller-Universität Jena — Institute for Political Science</p>
+<p class="title">Student assistant<br>Job call will open in spring 2026</p>
+
+<div class="tags">
+<span class="tag">International organizations</span>
+<span class="tag">Qualitative methods</span>
+<span class="tag">???</span>
+</div>
+
+</div> <!-- CLOSE .meta -->
+</section> <!-- CLOSE .person -->
+
+
+<!-- Person 6 -->
+
+<section class="person">
+<img src="./files/images/NN.png" alt="Portrait of NN">
+<div class="meta">
+
+<div class="name">
+<a href="https://www.wzb.eu/en/the-wzb/working-at-the-wzb/job-opportunities">N.N.</a>
+<span class="icons">
+
+<a href="https://www.wzb.eu/en/the-wzb/working-at-the-wzb/job-opportunities" title="Personal webpage">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+     fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+<circle cx="12" cy="12" r="10"/>
+<path d="M2 12h20M12 2a15.3 15.3 0 0 1 0 20M12 2a15.3 15.3 0 0 0 0 20"/>
+</svg>
+</a>
+
+<a href="mailto:christian.rauh@wzb.eu" title="Email CR">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+     fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+<rect width="20" height="16" x="2" y="4" rx="2"/>
+<path d="m22 6-10 7L2 6"/>
+</svg>
+</a>
+
+</span>
+</div>
+
+<p class="affil">WZB Berlin Social Science Center</p>
+<p class="title">Student assistant<br>Job call will open in spring 2026</p>
 
 <div class="tags">
 <span class="tag">Political science</span>
