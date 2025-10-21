@@ -46,6 +46,19 @@ format:
     toc: true
     link-external-newwindow: true
     email-obfuscation: javascript
+    include-after-body: |
+      <script>
+        document.addEventListener("DOMContentLoaded", function() {
+          const links = document.querySelectorAll("a[href^='http']");
+          const host = window.location.hostname;
+          links.forEach(link => {
+            if (!link.href.includes(host)) {
+              link.setAttribute("target", "_blank");
+              link.setAttribute("rel", "noopener noreferrer");
+            }
+          });
+        });
+      </script>
 
 
 
