@@ -131,14 +131,14 @@ format:
 
 <!-- Person 3 -->
 <section class="person">
-<img src="./files/images/NN2.png" alt="Portrait of NN">
+<img src="./files/images/Zikun Yang-Profile Picture.JPG" alt="Portrait of Zikun Yang">
 <div class="meta">
 
 <div class="name">
-<a href="https://jobs.uni-jena.de/jobposting/ec9ed2b7e9955ffd5236e35d27bdacd4ac944fba0">N.N.</a>
+<a href="https://www.linkedin.com/in/zikun-yang-phd/">Zikun Yang, Ph.D.</a>
 <span class="icons">
 
-<a href="https://jobs.uni-jena.de/jobposting/ec9ed2b7e9955ffd5236e35d27bdacd4ac944fba0" title="Personal webpage">
+<a href="https://www.linkedin.com/in/zikun-yang-phd/" title="Personal webpage">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
      fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
 <circle cx="12" cy="12" r="10"/>
@@ -146,7 +146,7 @@ format:
 </svg>
 </a>
 
-<a href="mailto:christian.kreuder-sonnen@uni-jena.de" title="Email CKS">
+<a href="mailto:zy301@cam.ac.uk" title="Email ZikunYang">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
      fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
 <rect width="20" height="16" x="2" y="4" rx="2"/>
@@ -158,12 +158,13 @@ format:
 </div>
 
 <p class="affil">Friedrich-Schiller-Universität Jena — Institute for Political Science</p>
-<p class="title">Post-Doctoral researcher<br><a href="https://jobs.uni-jena.de/jobposting/ec9ed2b7e9955ffd5236e35d27bdacd4ac944fba0">Job call open until November 30, 2025 [CLICK]</a></p>
+<p class="title">Post-doctoral researcher<br></p>
 
 <div class="tags">
-<span class="tag">International organizations</span>
-<span class="tag">Qualitative methods</span>
-<span class="tag">???</span>
+<span class="tag">China</span>
+<span class="tag">International Order</span>
+<span class="tag">International Organizations</span>
+<span class="tag">Status</span>
 </div>
 
 </div> <!-- CLOSE .meta -->
@@ -172,14 +173,14 @@ format:
 
 <!-- Person 4 -->
 <section class="person">
-<img src="./files/images/NN.png" alt="Portrait of NN">
+<img src="./files/images/IdaBuesch.jpg" alt="Portrait of Ida Büsch">
 <div class="meta">
 
 <div class="name">
-<a href="https://www.wzb.eu/en/jobs/predoctoral-research-fellow-phd-candidate-fmx-id-364-413-364">N.N.</a>
+<a href="https://www.linkedin.com/in/ida-b%C3%BCsch/">Ida Büsch</a>
 <span class="icons">
 
-<a href="https://www.wzb.eu/en/jobs/predoctoral-research-fellow-phd-candidate-fmx-id-364-413-364" title="Personal webpage">
+<a href="https://www.linkedin.com/in/ida-b%C3%BCsch/" title="Personal webpage">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
      fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
 <circle cx="12" cy="12" r="10"/>
@@ -199,12 +200,12 @@ format:
 </div>
 
 <p class="affil">WZB Berlin Social Science Center</p>
-<p class="title">Pre-Doctoral researcher<br><a href="https://www.wzb.eu/en/jobs/predoctoral-research-fellow-phd-candidate-fmx-id-364-413-364">Job call open until November 30, 2025 [CLICK]</a></p>
+<p class="title">Pre-doctoral researcher</p>
 
 <div class="tags">
-<span class="tag">Political science</span>
+<span class="tag">IO legitimacy</span>
 <span class="tag">Quantitative text analysis</span>
-<span class="tag">???</span>
+<span class="tag">Global Security Governance</span>
 </div>
 
 </div> <!-- CLOSE .meta -->
