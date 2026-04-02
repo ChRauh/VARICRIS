@@ -131,14 +131,14 @@ format:
 
 <!-- Person 3 -->
 <section class="person">
-<img src="./files/images/Zikun Yang-Profile Picture.JPG" alt="Portrait of Zikun Yang">
+<img src="./files/images/NN.png" alt="Portrait of N.N.">
 <div class="meta">
 
 <div class="name">
-<a href="https://www.linkedin.com/in/zikun-yang-phd/">Zikun Yang, Ph.D.</a>
+<a href="https://christian-rauh.eu/VARICRIS/people.html">N.N.</a>
 <span class="icons">
 
-<a href="https://www.linkedin.com/in/zikun-yang-phd/" title="Personal webpage">
+<a href="https://christian-rauh.eu/VARICRIS/people.html" title="Personal webpage">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
      fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
 <circle cx="12" cy="12" r="10"/>
@@ -146,7 +146,7 @@ format:
 </svg>
 </a>
 
-<a href="mailto:zy301@cam.ac.uk" title="Email ZikunYang">
+<a href="mailto:christian.kreuder-sonnen@uni-jena.de" title="Email CKS">
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
      fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
 <rect width="20" height="16" x="2" y="4" rx="2"/>
@@ -161,10 +161,9 @@ format:
 <p class="title">Post-doctoral researcher<br></p>
 
 <div class="tags">
-<span class="tag">China</span>
-<span class="tag">International Order</span>
 <span class="tag">International Organizations</span>
-<span class="tag">Status</span>
+<span class="tag">Qualitative methods</span>
+<span class="tag">???</span>
 </div>
 
 </div> <!-- CLOSE .meta -->

@@ -170,6 +170,29 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+      <script>
+
+        document.addEventListener("DOMContentLoaded", function() {
+
+          const links = document.querySelectorAll("a[href^='http']");
+
+          const host = window.location.hostname;
+
+          links.forEach(link => {
+
+            if (!link.href.includes(host)) {
+
+              link.setAttribute("target", "_blank");
+
+              link.setAttribute("rel", "noopener noreferrer");
+
+            }
+
+          });
+
+        });
+
+      </script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
